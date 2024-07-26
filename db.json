@@ -1,57 +1,60 @@
-[
-  {
-    "id": 1,
-    "name": "Fender Stratocaster",
-    "type": "Electric",
-    "price": 699.99,
-    "availability": "In stock",
-    "rating": 4.8,
-    "color": "Sunburst",
-    "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2eKTCAglIGZ0tNr41TJeX8X9MoI/product.jpeg",
-    "description": "A classic electric guitar known for its bright and powerful sound."
-  },
-  {
-    "id": 2,
-    "name": "Gibson Les Paul",
-    "type": "Electric",
-    "price": 1199.99,
-    "availability": "Out of stock",
-    "rating": 4.9,
-    "color": "Cherry Sunburst",
-    "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2ZrnCGuDnRRxOAaNw5jEahkA1Ep/product.jpeg",
-    "description": "A legendary guitar with a rich, full sound and solid build."
-  },
-  {
-    "id": 3,
-    "name": "Yamaha FG800",
-    "type": "Acoustic",
-    "price": 199.99,
-    "availability": "In stock",
-    "rating": 4.7,
-    "color": "Natural",
-    "image_url": "https://cdn11.bigcommerce.com/s-n9l2n2/images/stencil/1280x1280/products/31498/299976/DSC_6615__84517.1695668295.jpg?c=2?imbypass=on",
-    "description": "An affordable acoustic guitar with excellent sound quality."
-  },
-  {
-    "id": 4,
-    "name": "Taylor 314ce",
-    "type": "Acoustic-Electric",
-    "price": 1799.99,
-    "availability": "In stock",
-    "rating": 4.9,
-    "color": "Natural",
-    "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2f8qBjFjbpH2t8M2uUM7DNleKn4/product.jpeg",
-    "description": "A high-end acoustic-electric guitar known for its playability and tone."
-  },
-  {
-    "id": 5,
-    "name": "Ibanez RG550",
-    "type": "Electric",
-    "price": 899.99,
-    "availability": "In stock",
-    "rating": 4.8,
-    "color": "Desert Sun Yellow",
-    "image_url": "https://cdn11.bigcommerce.com/s-ebgn6kzcdd/images/stencil/1280x1280/products/301/2129/8X3A2645__24847.1710330992.JPG?c=1",
-    "description": "A versatile electric guitar favored by rock and metal musicians."
-  }
-]
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Fender Stratocaster",
+      "type": "Electric",
+      "price": 699.99,
+      "availability": "In stock",
+      "rating": 4.8,
+      "color": "Sunburst",
+      "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2eKTCAglIGZ0tNr41TJeX8X9MoI/product.jpeg",
+      "description": "A classic electric guitar known for its bright and powerful sound."
+    },
+    {
+      "id": 2,
+      "name": "Gibson Les Paul",
+      "type": "Electric",
+      "price": 1199.99,
+      "availability": "Out of stock",
+      "rating": 4.9,
+      "color": "Cherry Sunburst",
+      "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2ZrnCGuDnRRxOAaNw5jEahkA1Ep/product.jpeg",
+      "description": "A legendary guitar with a rich, full sound and solid build."
+    },
+    {
+      "id": 3,
+      "name": "Yamaha FG800",
+      "type": "Acoustic",
+      "price": 199.99,
+      "availability": "In stock",
+      "rating": 4.7,
+      "color": "Natural",
+      "image_url": "https://cdn11.bigcommerce.com/s-n9l2n2/images/stencil/1280x1280/products/31498/299976/DSC_6615__84517.1695668295.jpg?c=2?imbypass=on",
+      "description": "An affordable acoustic guitar with excellent sound quality."
+    },
+    {
+      "id": 4,
+      "name": "Taylor 314ce",
+      "type": "Acoustic-Electric",
+      "price": 1799.99,
+      "availability": "In stock",
+      "rating": 4.9,
+      "color": "Natural",
+      "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2f8qBjFjbpH2t8M2uUM7DNleKn4/product.jpeg",
+      "description": "A high-end acoustic-electric guitar known for its playability and tone."
+    },
+    {
+      "id": 5,
+      "name": "Ibanez RG550",
+      "type": "Electric",
+      "price": 899.99,
+      "availability": "In stock",
+      "rating": 4.8,
+      "color": "Desert Sun Yellow",
+      "image_url": "https://cdn11.bigcommerce.com/s-ebgn6kzcdd/images/stencil/1280x1280/products/301/2129/8X3A2645__24847.1710330992.JPG?c=1",
+      "description": "A versatile electric guitar favored by rock and metal musicians."
+    }
+  ]
+
+}
