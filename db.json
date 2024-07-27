@@ -2,58 +2,58 @@
   "items": [
     {
       "id": 1,
-      "name": "Fender Stratocaster",
+      "name": "Fender Stratocaster 2021",
       "type": "Electric",
       "price": 699.99,
       "availability": "In stock",
       "rating": 4.8,
-      "color": "Sunburst",
+      "finish": "Greenburst",
       "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2eKTCAglIGZ0tNr41TJeX8X9MoI/product.jpeg",
-      "description": "A classic electric guitar known for its bright and powerful sound."
+      "description": "Respecting our heritage while maintaining our innovative spirit, the Player Series humbucking bridge pickup sounds huge and warm, while the Player Series single-coil middle and neck pickups are crisp and articulate - it's authentic Fender tone with a modern edge. The \"Modern C\"-shaped maple neck's comfortable contours and smooth finish are ideal for almost any playing style. By adding a 22nd medium jumbo fret to the contemporary 9.5\"-radius fingerboard we've made it easier to express yourself musically. The updated 2-point tremolo design has smoother travel for enhanced playing feel while simultaneously giving you rock-solid tuning stability since there's less friction against the posts. Other features include master volume and tone controls, a 5-way pickup switch, 3-ply pickguard, synthetic bone nut, dual-wing string tree, sealed tuning machines and four-bolt \"F\"-stamped neck plate that marks this instrument as the real deal - as Fender as it gets."
     },
     {
       "id": 2,
       "name": "Gibson Les Paul",
       "type": "Electric",
-      "price": 1199.99,
+      "price": 5999.99,
       "availability": "Out of stock",
-      "rating": 4.9,
-      "color": "Cherry Sunburst",
+      "rating": "N/A",
+      "finish": "Natural",
       "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2ZrnCGuDnRRxOAaNw5jEahkA1Ep/product.jpeg",
-      "description": "A legendary guitar with a rich, full sound and solid build."
+      "description": "Ever since Gibson paired a maple top with a mahogany body and birthed the world's most iconic guitar, gorgeous combinations of the Les Paul have been crafted, with howling sound to match. This 1982 example, in a stunning natural finish, is a stout guitar with comfortable playability. The original Shaw pickups provide fierce tone, and the ebony fingerboard is smooth and quick, despite a few small cracks.."
     },
     {
       "id": 3,
-      "name": "Yamaha FG800",
+      "name": "Yamaha FG830",
       "type": "Acoustic",
-      "price": 199.99,
+      "price": 349.99,
       "availability": "In stock",
       "rating": 4.7,
-      "color": "Natural",
+      "finish": "Dusk Sun Red",
       "image_url": "https://cdn11.bigcommerce.com/s-n9l2n2/images/stencil/1280x1280/products/31498/299976/DSC_6615__84517.1695668295.jpg?c=2?imbypass=on",
-      "description": "An affordable acoustic guitar with excellent sound quality."
+      "description": "Rich overtones and improved sustain thanks to the rosewood back and sides deliver improved sound through greater ‘depth’. The appearance, with abalone inlay around the sound hole, is more luxurious and an obvious step-up. The small and thin body is perfect not only for female/young players but for intermediate to upper level finger-picking style players."
     },
     {
       "id": 4,
-      "name": "Taylor 314ce",
+      "name": "Taylor 314ce LTD The Last of Us Part II 2020",
       "type": "Acoustic-Electric",
-      "price": 1799.99,
+      "price": 5749.99,
       "availability": "In stock",
-      "rating": 4.9,
-      "color": "Natural",
+      "rating": "N/A",
+      "finish": "Sunburstl",
       "image_url": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2f8qBjFjbpH2t8M2uUM7DNleKn4/product.jpeg",
-      "description": "A high-end acoustic-electric guitar known for its playability and tone."
+      "description": "Designed to evoke intimate musical moments in The Last of Us Part II, this limited-edition 314ce is a one-to-one recreation of Ellie’s guitar from the game. This Grand Auditorium guitar is made with back and sides of solid sapele topped with Sitka spruce, a time-tested tonewood combination that produces warmth, punch and clarity in harmonious balance all the way across the tonal spectrum. V-Class bracing optimizes the guitar for increased volume and long, sparkling sustain, while the body shape and trademark Taylor neck design provide a smooth, comfortable feel no matter what type of music you play. Aesthetically, the guitar is treated with an alluring tobacco sunburst finished off with an all-gloss body finish, plus a two-ring rosette, faux tortoiseshell pickguard, and a custom Moth inlay design from the game. "
     },
     {
       "id": 5,
       "name": "Ibanez RG550",
       "type": "Electric",
-      "price": 899.99,
+      "price": 999.99,
       "availability": "In stock",
       "rating": 4.8,
-      "color": "Desert Sun Yellow",
+      "finish": "Desert Sun Yellow",
       "image_url": "https://cdn11.bigcommerce.com/s-ebgn6kzcdd/images/stencil/1280x1280/products/301/2129/8X3A2645__24847.1710330992.JPG?c=1",
-      "description": "A versatile electric guitar favored by rock and metal musicians."
+      "description": "The Ibanez RG series has been a rock and metal standard since the late 1980s. The Genesis Collection celebrates these legendary axes with classic RG550 and RG570 reissues, as well as the throwback RG550 model. You'll love these sleek and comfortably contoured guitars — not only do they hug your body and forearm, but their deep treble-side cutaway offers unrestricted access to all 24 frets. Guitarists here at Sweetwater love the feel and playability of Ibanez's classic RG guitars. You will too."
     }
   ]
 
