@@ -1,4 +1,26 @@
 {
+  "lists": [
+    {
+      "id": 1,
+      "manufacturer": "Fender"
+    },
+    {
+      "id": 2,
+      "manufacturer": "Gibson"
+    },
+    {
+      "id": 3,
+      "manufacturer": "Yamaha"
+    },
+    {
+      "id": 4,
+      "manufacturer": "Taylor"
+    },
+    {
+      "id": 5,
+      "manufacturer": "Ibanez"
+    }
+  ],
   "items": [
     {
       "id": 1,
@@ -57,4 +79,3 @@
     }
   ]
 }
-
