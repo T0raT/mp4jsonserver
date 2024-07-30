@@ -24,6 +24,7 @@
   "items": [
     {
       "id": 1,
+      "listId": 1,
       "name": "Fender Stratocaster 2021",
       "type": "Electric",
       "price": 699.99,
@@ -35,6 +36,7 @@
     },
     {
       "id": 2,
+      "listId": 2,
       "name": "Gibson Les Paul",
       "type": "Electric",
       "price": 5999.99,
@@ -46,6 +48,7 @@
     },
     {
       "id": 3,
+      "listId": 3,
       "name": "Yamaha FG830",
       "type": "Acoustic",
       "price": 349.99,
@@ -57,6 +60,7 @@
     },
     {
       "id": 4,
+      "listId": 4,
       "name": "Taylor 314ce LTD The Last of Us Part II 2020",
       "type": "Acoustic-Electric",
       "price": 5749.99,
@@ -68,6 +72,7 @@
     },
     {
       "id": 5,
+      "listId": 5,
       "name": "Ibanez RG550",
       "type": "Electric",
       "price": 999.99,
